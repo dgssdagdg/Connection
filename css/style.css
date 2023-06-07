@@ -381,6 +381,11 @@ body {
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
+.banks-item-link:hover {
+  background: rgba(238, 121, 28, 0.2);
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
 .banks-item-link:hover svg {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
